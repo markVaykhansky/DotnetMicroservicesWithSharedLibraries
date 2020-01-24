@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{145131B6-5648-4F50-ABF2-A2881C826B3D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ServiceB FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ServiceA PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceB/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="SharedLibrary1/SharedLibrary.cs" Line="4" Column="29" />
+      <File FileName="ServiceA/Controllers/WeatherForecastController.cs" Line="1" Column="14" />
+      <File FileName="ServiceB/Controllers/WeatherForecastController.cs" Line="12" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotnetMicroservicesWithSharedLibraries" expanded="True">
+            <Node name="ServiceA" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="ServiceB" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="SharedLibrary1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
